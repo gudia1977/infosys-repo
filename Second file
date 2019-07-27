@@ -1,0 +1,5 @@
+function add(3,4)
+{
+var resulr=3+4;
+console.log("result")
+}
